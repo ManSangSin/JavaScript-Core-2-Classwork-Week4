@@ -8,3 +8,7 @@ function printCoordinates(point) {
 }
 
 printCoordinates({ x: 10, y: 3 });
+
+//The x coordinate is 2 will be returned
+//An error will be returned for line 7 as y variable has not been defined
+//point varible is not called in the function so not used

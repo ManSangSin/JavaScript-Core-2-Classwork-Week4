@@ -50,7 +50,6 @@ function showMovies() {
   // add code here
 }
 
-
 /*
 
 Task 2
@@ -64,7 +63,7 @@ How many movies can you see on your page?
 
 const myFavMovie = {
   // add code here
-}
+};
 
 function addMovie(movie, callback) {
   // add code here
@@ -77,8 +76,6 @@ Can you change the addMovie function to make sure the new movie you just added i
 Hint: use callbacks
 
 */
-
-
 
 /*
 
